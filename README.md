@@ -4,14 +4,13 @@ This project demonstrates how to containerize a basic data science training scri
 
 ---
 
-## 📁 Project Structure
-
-mlops-project/
+## 📁 mlops-project/
 ├── data/
-│ └── sample.csv
+│   └── sample.csv
 ├── app.py
 ├── requirements.txt
 └── Dockerfile
+
 
 
 ---
